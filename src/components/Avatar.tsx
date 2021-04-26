@@ -24,8 +24,8 @@ const Image = styled.div<Partial<Props>>`
   overflow: hidden;
   text-transform: uppercase;
 
-  height: ${sizes.medium}px;
-  width: ${sizes.medium}px;
+  height: 400px;
+  width: 400px;
   line-height: ${sizes.medium}px;
 
   ${(props) =>
